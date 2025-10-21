@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/edna83490/Ebook_-familia-que-planta-terra-que-vive/blob/main/imagens/capa_ebook.png" alt="Família que Planta, Terra que Vive" width="80%">
+  <img src="capa_ebook.jpg" alt="Família que Planta, Terra que Vive" width="30%">
 </p>
 
 # 🌱 Família que Planta, Terra que Vive
