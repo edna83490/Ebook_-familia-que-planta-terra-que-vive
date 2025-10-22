@@ -15,7 +15,7 @@ Este material busca inspirar e valorizar o trabalho das famílias agricultoras, 
 ## 🧠 Ferramentas Utilizadas
 - **ChatGPT (OpenAI)** → Criação do título, estrutura e texto dos capítulos.  
 - **Leonardo.Ai** → Criação das imagens em estilo *pixel art*.  
-- **Microsoft Word** → Edição e formatação do eBook.  
+- **Power Point** → Edição e formatação do eBook.  
 - **Google Drive** → Armazenamento e compartilhamento dos arquivos.
 
 📎 Link com os arquivos do projeto:  
